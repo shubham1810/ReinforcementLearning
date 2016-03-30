@@ -130,7 +130,7 @@ def run_main(n_ep):
 if __name__ == '__main__':
     import sys
 
-    n = 100
+    n = 1000
     if len(sys.argv) > 1:
         n = int(sys.argv[1])
 
