@@ -22,6 +22,7 @@ class Weights(object):
         self.shape = w.shape
 
     def save_weights(self):
+        # TODO: Implement save and load functions.
         return
 
 

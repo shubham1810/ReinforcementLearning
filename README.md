@@ -9,3 +9,7 @@ Examples Implemented
 2. ttt_ql contains Q-learning example implemented on a game of Tic-Tac-Toe against a random player.
     - execute using run.py in the directory
     - pass an integer command line argument to define number of iterations. default is 1000.
+
+3. appx_ttt contains Approximate Q-learning with linear weights on a game of Tic-Tac-Toe against a random player.
+    - execute using run.py in the directory.
+    - pass number of iterations as integer cmd line argument (default: 1000)
